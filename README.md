@@ -1,5 +1,5 @@
-My name is Beka and I am a graduate student at the University of Washington in the School of Aquatic and Fishery Sciences. I am a freshwater ecologist interested in understanding freshwater ecosystem function in order to steward and conserve freshwater ecosystems. Stable isotopes are a tool I frequently use. I'm here in GitHub-land because I embrace and promote the principles of open and reproducible science. 
+I am a freshwater ecologist working on the Watershed and Ecological Assesment Team at King County in Washington State. I am interested in understanding freshwater ecosystem function in order to steward and conserve freshwater ecosystems. I use GitHub because I embrace and promote the principles of open and reproducible science. 
 
-📫 How to reach me: stilir@uw.edu  
+📫 How to reach me: rstiling@kingcounty.gov  
 Website (infant stage): https://freshbeka.github.io
 
